@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**ayobro1/ayobro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🧠 14-year-old builder | Raspberry Pi wizard | Future AI overlord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦾 Building a robotic hand with Raspberry Pi + servos (SG90, MG996R)
+- 🧠 Created a local AI assistant using computer vision + Gemini API
+- 🖥️ Built GUIs with PyQt6 to control AI games like Rock-Paper-Scissors
+- 🧪 Currently experimenting with voice control, object detection, and automation
+
+---
+
+## ⚙️ Featured Projects (Coming Soon)
+
+| Project Name                 | Description |
+|-----------------------------|-------------|
+| `godmode-ai-assistant`      | An offline voice assistant that sees, thinks, and talks. |
+| `rps-vision-robotic-arm`    | Play Rock-Paper-Scissors with a robotic hand using AI vision. |
+| `gemini-pyqt-gui-chatbot`   | Gemini-powered AI chatbot with a sleek PyQt6 interface. |
+
