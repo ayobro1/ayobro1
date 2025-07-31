@@ -1,6 +1,6 @@
 
 
-### 🧠 14-year-old builder | Raspberry Pi wizard | Future AI overlord
+### 🧠 14-year-old builder | Raspberry Pi wizard 
 
 - 🦾 Building a robotic hand with Raspberry Pi + servos (SG90, MG996R)
 - 🧠 Created a local AI assistant using computer vision + Gemini API
