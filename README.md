@@ -1,24 +1,25 @@
-# Hi, I'm Nolan
+# 👋 Hi, I'm Nolan (@ayobro1)
 
-### About Me
-- 🔭 I’m currently working on a secure protocol/vpn to securely message using p2p and QUIC. protocol as well as a messaging app for my band
-- 🌱 I’m currently learning Svelte and Rust as well as learning how to make automation workflows usimg github actions
-- ⚡ Fun fact: I love building tools that make life easier.
+### 👨‍💻 About Me
+- 🔭 **Currently working on:** A secure P2P messaging protocol using **QUIC** and a dedicated messaging app for my band.
+- 🌱 **Learning:** Deep diving into **Rust** and **Svelte**, plus mastering automation with **GitHub Actions**.
+- ⚡ **Fun fact:** I love building tools that make life easier (and more secure).
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayobro1&show_icons=true&theme=tokyonight" alt="ayobro1's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayobro1&show_icons=true&theme=tokyonight" alt="Nolan's Stats" />
 </p>
 
 <p align="center">
@@ -27,14 +28,13 @@
 
 ---
 
-### 📂 Top Repositories
-- 🌟 **[Project-1](https://github.com/ayobro1/your-repo-name)**: A brief description of your main project.
-- 🛠 **[Project-2](https://github.com/ayobro1/another-repo)**: Another cool thing you've built.
+### 📂 Featured Projects
+- 🔒 **[QUIC-Protocol-Project](https://github.com/ayobro1/QUIC-Protocol-Project)**: My implementation of a secure P2P messaging protocol.
+- 🎸 **[Band-App](https://github.com/ayobro1/Band-App)**: A specialized communication tool for band management and messaging.
+- 🤖 **[Automation-Workflows](https://github.com/ayobro1/Automation-Workflows)**: Exploring CI/CD and GitHub Actions.
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-
-
