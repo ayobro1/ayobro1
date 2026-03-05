@@ -6,7 +6,7 @@
 -  **Fun fact:** I love working on making everyday security more practical and easier to use.
 
 ### 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=rust,svelte,js,py,nodejs,postgres,sqlite,linux,raspberrypi,githubactions,git,html,css,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,svelte,js,py,nodejs,postgres,sqlite,linux,raspberrypi,githubactions,git,html,css,github,vscode,vercel,typescript,docker)](https://skillicons.dev)
 
 ### 📊 GitHub Analytics
 <p align="left">
