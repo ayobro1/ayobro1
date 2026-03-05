@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Nolan (@ayobro1)
+# Hi, I'm Nolan (@ayobro1)
 
-### 👨‍💻 About Me
-- 🔭 **Currently working on:** A secure P2P messaging protocol using **QUIC** and a messaging app for my band.
-- 🌱 **Learning:** Deep diving into **Rust** and **Svelte**, plus mastering automation with **GitHub Actions**.
-- ⚡ **Fun fact:** I love building tools that make life easier (and more secure).
+###  About Me
+-  **Currently working on:** A secure P2P messaging protocol using **QUIC** and a messaging app for my band.
+-  **Learning:** Deep diving into **Rust** and **Svelte**, plus mastering automation with **GitHub Actions**.
+-  **Fun fact:** I love working on making everyday security more practical and easier to use.
 
 ### 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=rust,svelte,js,py,nodejs,postgres,sqlite,linux,raspberrypi,githubactions,git,html,css,github,vscode)](https://skillicons.dev)
@@ -18,9 +18,8 @@
 ---
 
 ### 📂 Featured Projects
-- 🔒 **[Project-X-Network](https://github.com/ayobro1/Project-X-Network)**: P2P and QUIC protocol exploration.
-- 🎸 **[Band-App-V1](https://github.com/ayobro1/Band-App-V1)**: Messaging and management tool for my band.
-- 🧪 **[Rust-Practice](https://github.com/ayobro1/Rust-Practice)**: Rust learning exercises and automation scripts.
+- 🔒 **[freedom-network](https://github.com/ayobro1/freedom-network)**: P2P and QUIC protocol exploration.
+- 🎸 **[Band-msg](https://github.com/ayobro1/band-msg)**: Messaging and management tool for my band.
 
 ### 📫 Connect with me
 <p align="left">
