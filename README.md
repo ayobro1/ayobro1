@@ -12,29 +12,42 @@
 
 ---
 
-### 📊 GitHub Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayobro1&show_icons=true&theme=transparent&hide_border=true" alt="Nolan's Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayobro1&theme=transparent&hide_border=true" alt="Nolan's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayobro1&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 Developer Metrics
+| Stat | Value |
+| :--- | :--- |
+| **Primary Focus** | Systems Programming / P2P |
+| **Favorite Stack** | Rust, Svelte, QUIC |
+| **Availability** | [Open for collaboration](https://github.com/ayobro1) |
+| **Last Updated** | March 2026 |
 
 ---
 
-### 🛠 Tech Stack
+### 🛡️ Verified Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,svelte,js,ts,py,nodejs,docker,linux,raspberrypi,postgres,sqlite,git,githubactions,vscode,vercel" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/QUIC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- 🔒 **[freedom-network](https://github.com/ayobro1/freedom-network)**: Exploration of P2P networking and QUIC protocols.
-- 🎸 **[Band-msg](https://github.com/ayobro1/band-msg)**: A custom messaging/management solution for my band.
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| [**freedom-network**](https://github.com/ayobro1/freedom-network) | Rust, QUIC | 🏗️ In-Progress |
+| [**Band-msg**](https://github.com/ayobro1/band-msg) | Svelte, Node | ⚡ Beta |
+
+---
+
+### 🚀 Current Technical Focus
+- **Networking:** Deep dive into QUIC stack implementation and congestion control.
+- **Frontend:** Transitioning full-time into SvelteKit for high-performance reactive UI.
+- **Automation:** Writing custom GitHub Actions to optimize CI/CD pipelines.
+
+---
 
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/nolan-cotter-989025391/" target="blank">
