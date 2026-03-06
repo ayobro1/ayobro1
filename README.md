@@ -7,12 +7,12 @@
 
 ---
 
-### 📈 Coding Activity
+### Coding Activity
 [![Nolan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayobro1&bg_color=dad7cd&color=3a5a40&line=588157&point=344e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📊 Developer Metrics
+### Developer Metrics
 | Stat | Value |
 | :--- | :--- |
 | **Primary Focus** | Systems Programming / P2P |
@@ -37,8 +37,8 @@
 ### Featured Projects
 | Project | Tech Stack | Status |
 | :--- | :--- | :--- |
-| [**freedom-network**](https://github.com/ayobro1/freedom-network) | Rust, QUIC | 🏗️ In-Progress |
-| [**Band-msg**](https://github.com/ayobro1/band-msg) | Svelte, Node | ⚡ Beta |
+| [**freedom-network**](https://github.com/ayobro1/freedom-network) | Rust, QUIC |  In-Progress |
+| [**Band-msg**](https://github.com/ayobro1/band-msg) | Svelte, Node |  Beta |
 
 ---
 
