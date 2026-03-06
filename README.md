@@ -12,6 +12,19 @@
 
 ---
 
+### 📊 GitHub Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayobro1&show_icons=true&theme=transparent&hide_border=true" alt="Nolan's Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayobro1&theme=transparent&hide_border=true" alt="Nolan's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayobro1&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,svelte,js,ts,py,nodejs,docker,linux,raspberrypi,postgres,sqlite,git,githubactions,vscode,vercel" />
