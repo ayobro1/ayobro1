@@ -1,4 +1,4 @@
-# Hi there, I'm Nolan (@ayobro1) 👋
+# Hi there, I'm Nolan (@NolanCotter) 👋
 
 ### ⚡ About Me
 * 🔭 **Currently working on:** A secure P2P messaging protocol using **QUIC** and a messaging app for my band.
