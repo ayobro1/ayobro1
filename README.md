@@ -8,7 +8,7 @@
 ---
 
 ### Coding Activity
-[![Nolan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayobro1&bg_color=dad7cd&color=3a5a40&line=588157&point=344e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nolan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NolanCotter&bg_color=dad7cd&color=3a5a40&line=588157&point=344e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -17,7 +17,7 @@
 | :--- | :--- |
 | **Primary Focus** | Systems Programming / P2P |
 | **Favorite Stack** | Rust, Svelte, QUIC |
-| **Availability** | [Open for collaboration](https://github.com/ayobro1) |
+| **Availability** | [Open for collaboration](https://github.com/NolanCotter) |
 | **Last Updated** | March 2026 |
 
 ---
@@ -37,8 +37,8 @@
 ### Featured Projects
 | Project | Tech Stack | Status |
 | :--- | :--- | :--- |
-| [**freedom-network**](https://github.com/ayobro1/freedom-network) | Rust, QUIC |  In-Progress |
-| [**Band-msg**](https://github.com/ayobro1/band-msg) | Svelte, Node |  Beta |
+| [**freedom-network**](https://github.com/NolanCotter/freedom-network) | Rust, QUIC |  In-Progress |
+| [**Band-msg**](https://github.com/NolanCotter/band-msg) | Svelte, Node |  Beta |
 
 ---
 
