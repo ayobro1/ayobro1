@@ -55,4 +55,4 @@
 ### 📊 Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NolanCotter&bg_color=dad7cd&color=3a5a40&line=588157&point=344e41&area=true&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NolanCotter&label=Profile%20Views&color=3a5a40&style=flat)
+![Profile Views](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4
