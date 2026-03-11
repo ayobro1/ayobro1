@@ -4,7 +4,7 @@
 *  **Currently working on:** A secure P2P messaging protocol using **QUIC** and a messaging app for my band.
 *  **Learning:** Deep diving into **Rust** and **Svelte**, plus mastering automation with **GitHub Actions**.
 *  **Fun fact:** I’m obsessed with making everyday security practical, accessible, and user-friendly.
-
+![](https://komarev.com/ghpvc/?username=NolanCotter&label=NolanCotter+2499)
 ---
 
 ### Coding Activity
