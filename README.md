@@ -1,17 +1,16 @@
-# Hi there, I'm Nolan (@NolanCotter) 👋
+# Hi there, I'm Nolan (@NolanCotter)
 
 ### 🚀 About Me
-I'm a developer passionate about building secure, accessible, and high-performance systems.
 * **Currently working on:** A secure P2P messaging protocol using **QUIC** and a custom messaging app for my band.
-* **Learning:** Deep-diving into **Rust** and **Svelte**, while refining my CI/CD workflows with **GitHub Actions**.
-* **Fun fact:** I’m obsessed with making everyday security practical and user-friendly for everyone.
+* **Learning:** Deep diving into **Rust** and **Svelte**, plus mastering automation with **GitHub Actions**.
+* **Fun fact:** I’m obsessed with making everyday security practical, accessible, and user-friendly.
 
 ---
 
 ### 🛠 Technical Focus
-* **Networking:** Low-level implementation of QUIC stacks and congestion control algorithms.
-* **Frontend:** Building high-performance, reactive user interfaces with **SvelteKit**.
-* **Automation:** Engineering robust CI/CD pipelines via custom **GitHub Actions**.
+* **Networking:** Deep dive into QUIC stack implementation and congestion control.
+* **Frontend:** Transitioning full-time into SvelteKit for high-performance reactive UI.
+* **Automation:** Writing custom GitHub Actions to optimize CI/CD pipelines.
 
 ---
 
@@ -25,28 +24,30 @@ I'm a developer passionate about building secure, accessible, and high-performan
 
 ### 💻 Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/QUIC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/QUIC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
-### 📈 Current Status
-* **Focus:** Systems Programming & P2P Networking
-* **Availability:** [Open for collaboration](https://github.com/NolanCotter)
-* **Last Updated:** March 2026
+### 📈 Developer Metrics
+| Stat | Value |
+| :--- | :--- |
+| **Primary Focus** | Systems Programming / P2P |
+| **Availability** | [Open for collaboration](https://github.com/NolanCotter) |
+| **Last Updated** | March 2026 |
 
 ---
 
 ### 🔗 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/nolan-cotter-989025391/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/nolan-cotter-989025391/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
