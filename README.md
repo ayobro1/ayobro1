@@ -17,8 +17,8 @@
 ### 📦 Featured Projects
 | Project | Tech Stack | Status |
 | :--- | :--- | :--- |
-| [**freedom-network**](https://github.com/NolanCotter/freedom-network) | Rust, QUIC | In-Progress |
-| [**Band-msg**](https://github.com/NolanCotter/band-msg) | Svelte, Node | Beta |
+| [**freedom-network**](https://github.com/NolanCotter/freedom-network) | Rust, QUIC | Pre-Beta |
+| [**Band-msg**](https://github.com/NolanCotter/band-msg) | Svelte, Node | Early-Beta |
 
 ---
 
